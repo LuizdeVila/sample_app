@@ -41,7 +41,7 @@ $ rails server
 For more information, see the
 [_Ruby on Rails Tutorial_ book](https://www.railstutorial.org/book).
 
-Acesse a aplicação através do link
+Acesse a aplicação através do link:
 
 ```
 https://whispering-headland-43474.herokuapp.com/
